@@ -5,11 +5,11 @@ image_thumbs_loc: "/images/thumbs"
 
 # UI configs
 title:
-subtitle:
+subtitle: photography
 author: tgonzalez[at]gmail[dot]com
 header:
  title:
- subtitle:
+ subtitle: photography
 footer:
  name: tomás gonzález c
  bio:
